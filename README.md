@@ -28,6 +28,13 @@ or [here](https://github.com/IceMajor2/hyperskill-projects)). However, I felt li
   You can read more about this project in its [README](https://github.com/IceMajor2/Alkolicznik/blob/main/README.md) file.
   If you want to just see it in action, [click here](https://alkolicznik.alwaysdata.net/) to access a live demo.
 
+* _(Work in progress)_ [**Micro-blog**](https://github.com/IceMajor2/micro-blog). While still in-development, I could give a succint description of a thought process behind it.
+
+  I've been wondering about having a place on the Internet where I could explain - to others as well as to myself - various problems from the programming world. A blog, if you will.
+  That place could also be used as somewhat of a diary: to document my learning journey. Obviously, I could not just use some random template available on the web, I had to create it myself!
+  
+  From a technical point of view, this application is my first-more-serious take on **microservices**, **mocks** or **OAuth 2.0**.
+
 ### What's next?
 Just as previously I've realized I should make something bigger by myself, now I realize my shortcomings in working with other people.
 
@@ -38,6 +45,6 @@ Anything really! I'm open to suggestions and that's why you should take a look a
 ### Contact me
 You can write to me through:
 * **E-mail**: icemajorr2@gmail.com
-* **Discord**: _icemajor _(ID)_
+* **Discord**: _icemajor
 
 ## Thanks for visting
