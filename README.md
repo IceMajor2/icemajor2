@@ -21,10 +21,12 @@ and I'm trying my best by continuosly learning everyday.
 ### Projects & repositories
 * [**Alkolicznik**](https://github.com/IceMajor2/Alkolicznik). My biggest effort so far. An artist may call it a *magnum opus*.
 Not me, though. This emerged as a result of not having built anything from top to bottom by myself. I've already had
-a list of nice, small projects implementations of someone else's ideas. However, I felt like it was the time to improve.
+a list of nice, small projects implementations of someone else's ideas (see [here](https://github.com/IceMajor2/programming-projects-for-advanced-begginers)
+or [here](https://github.com/IceMajor2/hyperskill-projects)). However, I felt like it was the time to improve.
 
-  This made me realize how tough, how time-consuming making decent applications is.
-  The process was awesome. You can read more about this project in its [README](https://github.com/IceMajor2/Alkolicznik/blob/main/README.md) file.
+  This made me realize how tough, how time-consuming making decent applications is. The process was awesome.
+  You can read more about this project in its [README](https://github.com/IceMajor2/Alkolicznik/blob/main/README.md) file.
+  If you want to just see it in action, [click here](https://alkolicznik.alwaysdata.net/) to access a live demo.
 
 ### What's next?
 Just as previously I've realized I should make something bigger by myself, now I realize my shortcomings in working with other people.
