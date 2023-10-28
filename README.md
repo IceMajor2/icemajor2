@@ -10,13 +10,13 @@ People having no formal education, but skilled in some field are usually reffere
 After all, having no formal education does not leave you to yourself. Rather than that, you are left in **The Huge Realm Of The Information** - also seldom described as _the Internet_ -
 which contains all the goods useful to acquire knowledge, as well as straight-up nonsense that you need to carefully filter out. This - in itself - is an incredibly hard skill to gain.
 
-Okay, but enough of this chit-chat. You **may** want (but most likely you don't care) to know more about my achievements in the glorious world of *programming*.
-The answer is: **hardly anything**. I mean, just look at how much code people have written in the very day you're reading this. Just realize how much information
+Okay, but enough of this chit-chat. You *may* want (but most likely you don't care) to know more about my achievements in the glorious world of programming.
+The answer would be that I've done **hardly anything**. I mean, just look at how much code people have written in the very day you're reading this. Just realize how much information
 has been created and published. Comparing anyone's input to that number would be like realizing how much microorganisms live on (and in) your body.
 
 But people still ask others to collaborate with them, companies still recruit specialists (well, I hope!) and learners continue their struggles. After all, it's not the quantity
-that is the best characteristic here. It is the quality which is a result of good information-seeking skills, discipline, communication, commitment and many others. I realize
-that, and I'm trying my best in the continous, everyday improvement.
+that is the best characteristic here. It is the quality which is a result of good information-seeking skills, discipline, communication, commitment and many others. I'm aware of that,
+and I'm trying my best by continuosly learning everyday.
 
 ### Projects & repositories
 * [**Alkolicznik**](https://github.com/IceMajor2/Alkolicznik). My biggest effort so far. An artist may call it a *magnum opus*.
