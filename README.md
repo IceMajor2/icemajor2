@@ -46,5 +46,6 @@ Anything really! I'm open to suggestions and that's why you should take a look a
 You can write to me through:
 * **E-mail**: icemajorr2@gmail.com
 * **Discord**: _icemajor
+* **LinkedIn**: https://www.linkedin.com/in/marcin-startek-b994b4298/
 
 ## Thanks for visting
