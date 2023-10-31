@@ -35,6 +35,12 @@ or [here](https://github.com/IceMajor2/hyperskill-projects)). However, I felt li
   
   From a technical point of view, this application is my first-more-serious take on **microservices**, **mocks** or **OAuth 2.0**.
 
+* [**Account Service**](https://github.com/IceMajor2/hyperskill-projects/tree/main/account-service). Not a "big" project by any means, however a solid foundation for my Spring Boot skills.
+  Part of [JetBrains academy course](https://hyperskill.org/projects/217)
+
+  This has been done a while ago. Because the course providers do not provide code (only tests and guidelines),
+  the process involved a lot of research on my own, which I consider a plus. You will find there a little bit of everything: from security features through logging services to testing using mocks.
+
 ### What's next?
 Just as previously I've realized I should make something bigger by myself, now I realize my shortcomings in working with other people.
 
