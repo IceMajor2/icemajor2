@@ -19,14 +19,13 @@ that is the best characteristic here. It is the quality which is a result of goo
 and I'm trying my best by continuosly learning everyday.
 
 ### Projects & repositories
-* [**Alkolicznik**](https://github.com/IceMajor2/Alkolicznik). My biggest effort so far. An artist may call it a *magnum opus*.
+* [**Alkolicznik**](https://github.com/IceMajor2/Alkolicznik) ([live demo](https://alkolicznik.alwaysdata.net/)). My biggest effort so far. An artist may call it a *magnum opus*.
 Not me, though. This emerged as a result of not having built anything from top to bottom by myself. I've already had
 a list of nice, small projects implementations of someone else's ideas (see [here](https://github.com/IceMajor2/programming-projects-for-advanced-begginers)
 or [here](https://github.com/IceMajor2/hyperskill-projects)). However, I felt like it was the time to improve.
 
   This made me realize how tough, how time-consuming making decent applications is. The process was awesome.
   You can read more about this project in its [README](https://github.com/IceMajor2/Alkolicznik/blob/main/README.md) file.
-  If you want to just see it in action, [click here](https://alkolicznik.alwaysdata.net/) to access a live demo.
 
 * _(Work in progress)_ [**Micro-blog**](https://github.com/IceMajor2/micro-blog). While still in-development, I could give a succint description of a thought process behind it.
 
